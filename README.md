@@ -1,5 +1,5 @@
 # Product Analytics Dashboard
-
+![image url](product_dashboard.png)
 
 ### 📌 Overview
 
