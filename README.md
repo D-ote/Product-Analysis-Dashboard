@@ -1,5 +1,5 @@
 # Product Analytics Dashboard
-![image url](product_dashboard.png)
+[![image url](product_dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMGNmZjlmM2MtNjVmMy00MzI4LWE5MmEtN2FmMTZiNjVhZDQzIiwidCI6IjdkZDVmMGE5LTM0ZjItNGU2Yy1iYWQwLWY5Mjk0NmU3YTc1NSJ9)
 
 ### 📌 Overview
 
